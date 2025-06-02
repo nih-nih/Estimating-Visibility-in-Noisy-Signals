@@ -9,7 +9,7 @@ We compare two core techniques:
 - **Nonlinear Least-Squares Curve Fitting**
 
 Additionally, we apply **signal smoothing filters** to improve signal quality before visibility extraction:
-- Low-pass filtering via FFT
+- Low-pass filtering
 - Gaussian convolution
 - Windowed sinc filtering
 
