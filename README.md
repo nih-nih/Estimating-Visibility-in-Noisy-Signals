@@ -1,1 +1,1 @@
-# Visibility
+# Estimating Visibility in Noisy Signals
